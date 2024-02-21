@@ -1,4 +1,4 @@
-package ru.dolgosheev.tacocloud.controllers;
+package ru.dolgosheev.tacocloud.web;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
